@@ -1,5 +1,5 @@
 import React from 'react';
-import Home from '../../views/Home/Home';
+
 import './Editor.css';
 
 export default function Editor({
